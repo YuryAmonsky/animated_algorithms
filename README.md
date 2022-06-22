@@ -1,1 +1,1 @@
-# animated_algorithms
+# Animated algorithms
